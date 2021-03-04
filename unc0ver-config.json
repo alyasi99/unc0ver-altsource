@@ -1,7 +1,7 @@
 {
   "name": "unc0ver",
   "identifier": "science.xnu.undecimus",
-  "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/ishtiaq156/unc0ver-altsource/main/unc0ver-config.json",
   "apps": [
     {
       "name": "unc0ver",
