@@ -17,19 +17,8 @@
       "tintColor": "018084",
       "size": 58500000,
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "permissions": [
-        {
-          "type": "background-fetch",
-          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
-        },
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
-        }
+        "https://github.com/ishtiaq156/test/raw/main/unc0ver-screen1.jpg",
+        "https://github.com/ishtiaq156/test/raw/main/unc0ver-screen2.jpg"
       ]
     }
   ],
