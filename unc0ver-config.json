@@ -24,9 +24,9 @@
   ],
   "news": [
     {
-      "title": "unc0ver 6.0.2 is NOW OUT!",
-      "identifier": "uncover-6.0.2-now-out",
-      "caption": "With additional fixes for stability and reliability problems on iOS 14.",
+      "title": "unc0ver v6.1.0 is NOW OUT!",
+      "identifier": "uncover-6.1.0-now-out",
+      "caption": "With additional stability, reliability and capability improvements to iOS 14 support.",
       "tintColor": "A8A0A5",
       "imageURL": "https://github.com/ishtiaq156/test/raw/main/unc0ver-news.png",
       "appID": "science.xnu.undecimus",
