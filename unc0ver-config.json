@@ -12,7 +12,7 @@
       "versionDate": "2021-03-06T15:01:00-06:00",
       "versionDescription": "- Make Xcode debugging work on iOS 14 by patching an Apple bug that caused it to break after rebooting userspace",
       "downloadURL": "https://unc0ver.dev/downloads/6.1.1/decf7c36cc08118dc83ba455f8ca42e0e3cf354c/unc0ver_Release_6.1.1.ipa",
-      "localizedDescription": "The most advanced jail​break tool.\niOS 11.0 - 14.3. \n\nunc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.",
+      "localizedDescription": "The most advanced jail​break tool.\niOS 11.0 - 14.3. \n\nunc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice. \n\nCompatible\nunc0ver supports iOS 11.0 through to iOS 14.3\n\nStable\nUtilizing proper and deterministic techniques, jail​break stability is guaranteed.\n\nSecure\nUtilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.",
       "iconURL": "https://github.com/ishtiaq156/test/raw/main/AppIcon76x76%402x%7Eipad.png",
       "tintColor": "018084",
       "size": 58500000,
