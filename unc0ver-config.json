@@ -8,10 +8,10 @@
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "pwn20wnd & sbingner",
       "subtitle": "The most advanced jail​break tool.",
-      "version": "6.1.1",
+      "version": "6.1.2",
       "versionDate": "2021-03-06T15:01:00-06:00",
       "versionDescription": "- Make Xcode debugging work on iOS 14 by patching an Apple bug that caused it to break after rebooting userspace",
-      "downloadURL": "https://unc0ver.dev/downloads/6.1.1/decf7c36cc08118dc83ba455f8ca42e0e3cf354c/unc0ver_Release_6.1.1.ipa",
+      "downloadURL": "https://unc0ver.dev/downloads/6.1.2/56dd2827d0f4585f6cf21a8e08a1a4eba6f2cdb2/unc0ver_Release_6.1.2.ipa",
       "localizedDescription": "The most advanced jail​break tool.\niOS 11.0 - 14.3. \n\nunc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice. \n\nCompatible\nunc0ver supports iOS 11.0 through to iOS 14.3\n\nStable\nUtilizing proper and deterministic techniques, jail​break stability is guaranteed.\n\nSecure\nUtilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.\n\nExtensively Tested\nUnc0ver has been extensively tested to ensure it's a seamless experience on all devices. Unc0ver works on all devices on iOS versions between 11.0 and 14.3.\n\nImportant Information\nunc0ver is designed to be stable and enable freedom from the moment you jail​break your device. Built-in runtime policy softener allows running code without Apple's notarization and pervasive restrictions. Proper runtime modifications to iOS kernel modify security features as necessary and result in:\n- No Extra Security Vulnerabilities\n- Stability & Battery Life\n- Reconciliation of Services\n- Future Software Updates\n- iOS Updates\n- Jail​break Legality",
       "iconURL": "https://github.com/ishtiaq156/test/raw/main/AppIcon76x76%402x%7Eipad.png",
       "tintColor": "018084",
@@ -24,8 +24,8 @@
   ],
   "news": [
     {
-      "title": "unc0ver v6.1.1 is NOW OUT!",
-      "identifier": "uncover-6.1.1-now-out",
+      "title": "unc0ver v6.1.2 is NOW OUT!",
+      "identifier": "uncover-6.1.2-now-out",
       "caption": "With additional stability, reliability and capability improvements to iOS 14 support.",
       "tintColor": "A8A0A5",
       "imageURL": "https://github.com/ishtiaq156/test/raw/main/unc0ver-news.png",
